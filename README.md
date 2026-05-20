@@ -1,2 +1,28 @@
-# Site-Brasileir-o-2026
-O site Brasileirão 2026 apresenta informações sobre clubes do futebol brasileiro de forma dinâmica e responsiva. Desenvolvido com HTML, CSS, Bootstrap e JavaScript, o projeto utiliza uma estrutura JSON para exibir times em destaque, cards informativos e páginas de detalhes com imagens, descrições e informações completas dos clubes.
+# ⚽ Brasileirão 2026
+
+![Banner](assets/banner.png)
+
+Projeto responsivo desenvolvido com HTML, CSS, Bootstrap e JavaScript, apresentando informações dinâmicas sobre clubes do futebol brasileiro.
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- JSON
+
+## 📸 Preview
+
+### Página Inicial
+![Home](assets/screenshots/home.png)
+
+### Página de Detalhes
+![Detalhes](assets/screenshots/detalhes.png)
+
+## 📱 Responsivo
+
+Compatível com:
+- Desktop
+- Tablet
+- Mobile
