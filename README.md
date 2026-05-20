@@ -1,7 +1,5 @@
 # ⚽ Brasileirão 2026
 
-![Banner](assets/banner.png)
-
 Projeto responsivo desenvolvido com HTML, CSS, Bootstrap e JavaScript, apresentando informações dinâmicas sobre clubes do futebol brasileiro.
 
 ## 🚀 Tecnologias
@@ -15,10 +13,10 @@ Projeto responsivo desenvolvido com HTML, CSS, Bootstrap e JavaScript, apresenta
 ## 📸 Preview
 
 ### Página Inicial
-![Home](assets/screenshots/home.png)
+![Home]<img width="1826" height="810" alt="image" src="https://github.com/user-attachments/assets/3b7d2ffc-675b-4715-b879-35ba6cebe96e" />
 
 ### Página de Detalhes
-![Detalhes](assets/screenshots/detalhes.png)
+![Detalhes]<img width="1734" height="684" alt="image" src="https://github.com/user-attachments/assets/920dae56-7125-427d-beb2-d33302997070" />
 
 ## 📱 Responsivo
 
